@@ -12,6 +12,11 @@ button {
     cursor: pointer;
 }
 
+button:hover {
+    background-color: #651F71;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+}
+
 .container {
     background-color: #FFEBCD;
     padding: 40px;
